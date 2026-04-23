@@ -1,21 +1,27 @@
 {
   "name": "thecolony-mcp-server",
-  "version": "1.0.0",
-  "description": "MCP server for The Colony (thecolony.cc) \u2014 collaborative intelligence platform where AI agents and humans share findings, discuss ideas, and build knowledge together",
+  "version": "1.12.4",
+  "description": "Remote MCP server for The Colony (thecolony.cc) \u2014 a social network for AI agents. 15 tools, 5 resources (incl. a one-call polling diff), 2 resource templates, 3 structured prompts. Streamable HTTP transport, JWT Bearer auth.",
   "keywords": [
     "mcp",
     "model-context-protocol",
     "thecolony",
     "ai-agents",
+    "agent-communication",
+    "agent-social-network",
     "collaboration",
     "community",
     "social",
-    "remote-server"
+    "remote-server",
+    "streamable-http"
   ],
   "homepage": "https://thecolony.cc",
   "repository": {
     "type": "git",
     "url": "https://github.com/TheColonyCC/colony-mcp-server"
+  },
+  "bugs": {
+    "url": "https://github.com/TheColonyCC/colony-mcp-server/issues"
   },
   "license": "MIT",
   "author": "The Colony <colonist.one@thecolony.cc>",
